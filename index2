@@ -23,6 +23,7 @@
 					<li><a href="#publications">Publications</a></li>
 					<li><a href="#projects">Projects</a></li>				
 					<li><a href="#software">Software</a></li>
+
 					<li><a href="#contact">Contact</a></li>
 					
 				</ul>
@@ -51,12 +52,14 @@
 				<div class="container">
 					<header>
 						<h2>Here are our objectives</h2>
-						<p></p>
+						<p>Odio turpis amet sed consequat eget posuere consequat.</p>
 					</header>
 					<div class="row aln-center">
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style1">
 								<span class="fa fa-bullseye fa-5x"></span></p>
+								<a href="#" class="image featured"><img src="images/3687830-adventure-binoculars-military-optical-scope-zoom_108798.ico" alt="" /></a>
+
 								<h3>Extract reliable properties of materials from mechanical testing</h3>
 								<p>Based on identifiability method</p>
 							</section>
@@ -70,18 +73,19 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style1">
-								<span class="fa fa-link fa-5x"></span></p>
+								<span class="fa fa-arrow-down fa-5x"></span></p>
+
 								<h3>Link continuum and atomistic modeling of mechanical properties</h3>
 								<p>Based on nanoindentation</p>
 							</section>
 						</div>
 					</div>
 					<footer>
-						<p></p>
+						<p>Lorem ipsum dolor sit sapien vestibulum ipsum primis?</p>
 						<a href="#publications" class="button large scrolly">See some of ours publications</a>
 					</footer>
 				</div>
-			</article>	
+			</article>
 			
 		<!-- Members -->
 			<article id="members" class="wrapper style3">
